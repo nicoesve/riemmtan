@@ -1,12 +1,12 @@
-# spdmetrics: Riemannian Metrics for Symmetric Positive Definite Matrices
+# riemmtan: Riemannian Metrics for Symmetric Positive Definite Matrices
 
 <!-- badges: start -->
-<!-- [![R-CMD-check](https://github.com/yourusername/spdmetrics/workflows/R-CMD-check/badge.svg)](https://github.com/nicoesve/spdmetrics/actions) -->
+<!-- [![R-CMD-check](https://github.com/yourusername/riemmtan/workflows/R-CMD-check/badge.svg)](https://github.com/nicoesve/spdmetrics/actions) -->
 <!-- badges: end -->
 
 ## Overview
 
-`spdmetrics` implements various Riemannian metrics for symmetric positive definite (SPD) matrices. It provides tools for computing logarithmic and exponential maps, vectorization operations, and statistical analyses on the manifold of SPD matrices.
+`riemmtan` implements various Riemannian metrics for symmetric positive definite (SPD) matrices. It provides tools for computing logarithmic and exponential maps, vectorization operations, and statistical analyses on the manifold of SPD matrices.
 
 The package implements five different metrics:
 - Affine Invariant Riemannian Metric (AIRM)
@@ -21,14 +21,14 @@ You can install the released version of spdmetrics with:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("nicoesve/spdmetrics")
+devtools::install_github("nicoesve/riemmtan")
 ```
 
 ## Usage
 Here's a basic example of computing the AIRM logarithm between two SPD matrices:
 
 ```r
-library(spdmetrics)
+library(riemmtan)
 library(Matrix)
 
 # Create two SPD matrices
@@ -73,9 +73,9 @@ sample$sample_cov
 ## Documentation
 For more detailed information, check out:
 
-* [Package website](https://nicoesve.github.io/spdmetrics/)
-* [Function reference](https://nicoesve.github.io/spdmetrics/reference/)
-* [Introduction to spdmetrics](https://nicoesve.github.io/spdmetrics/articles/spdmetrics.html)
+* [Package website](https://nicoesve.github.io/riemmtan/)
+* [Function reference](https://nicoesve.github.io/riemtann/reference/)
+* [Introduction to spdmetrics](https://nicoesve.github.io/spdmetrics/articles/riemtann.html)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
