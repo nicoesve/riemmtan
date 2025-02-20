@@ -1,7 +1,7 @@
 # riemmtan: Riemannian Metrics for Symmetric Positive Definite Matrices
 
 <!-- badges: start -->
-<!-- [![R-CMD-check](https://github.com/yourusername/riemmtan/workflows/R-CMD-check/badge.svg)](https://github.com/nicoesve/spdmetrics/actions) -->
+<!-- [![R-CMD-check](https://github.com/yourusername/riemmtan/workflows/R-CMD-check/badge.svg)](https://github.com/nicoesve/riemmtan/actions) -->
 <!-- badges: end -->
 
 ## Overview
@@ -17,7 +17,7 @@ The package implements five different metrics:
 
 ## Installation
 
-You can install the released version of spdmetrics with:
+You can install the released version of riemmtan with:
 
 ```r
 # install.packages("devtools")
@@ -75,7 +75,7 @@ For more detailed information, check out:
 
 * [Package website](https://nicoesve.github.io/riemmtan/)
 * [Function reference](https://nicoesve.github.io/riemtann/reference/)
-* [Introduction to spdmetrics](https://nicoesve.github.io/spdmetrics/articles/riemtann.html)
+* [Introduction to riemmtan](https://nicoesve.github.io/riemmtan/articles/riemtann.html)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
