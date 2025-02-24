@@ -1,4 +1,4 @@
-Package: spdmetrics
+Package: riemmtan
 Title: Riemannian Metrics for Symmetric Positive Definite Matrices
 Version: 0.1.0
 Authors@R: c(
@@ -34,6 +34,6 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://nicoesve.github.io/riemmtan/
+BugReports: https://github.com/nicoesve/riemmtan/issues
 Config/testthat/edition: 3
-URL: https://nicoesve.github.io/spdmetrics/
-BugReports: https://github.com/nicoesve/spdmetrics/issues

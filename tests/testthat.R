@@ -1,4 +1,4 @@
 library(testthat)
-library(spdmetrics)
+library(riemmtan)
 
-test_check("spdmetrics")
+test_check("riemmtan")
