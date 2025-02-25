@@ -20,20 +20,15 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-Depends: R (>= 4.1.0)
-Imports: 
-    Matrix,
-    methods,
-    expm,
-    R6,
-    purrr,
-    MASS,
-    furrr
-Suggests: 
-    testthat (>= 3.0.0),
-    knitr,
-    rmarkdown
+Depends: R (>= 4.3.0)
+Imports: Matrix, methods, expm, R6, purrr, MASS, furrr
+Suggests: testthat (>= 3.0.0), knitr, rmarkdown
 VignetteBuilder: knitr
 URL: https://nicoesve.github.io/riemmtan/
 BugReports: https://github.com/nicoesve/riemmtan/issues
 Config/testthat/edition: 3
+Maintainer: Nicolas Escobar <nescoba@iu.edu>
+NeedsCompilation: no
+Packaged: 2025-02-25 14:27:24 UTC; root
+Author: Nicolas Escobar [aut, cre] (<https://orcid.org/0009-0006-0800-5692>),
+  Jaroslaw Harezlak [ths]

@@ -8,6 +8,14 @@
 \description{
 Implements various Riemannian metrics for symmetric positive definite matrices, including AIRM (Affine Invariant Riemannian Metric), Log-Euclidean, Euclidean, Log-Cholesky, and Bures-Wasserstein metrics. Provides functions for computing logarithmic and exponential maps, vectorization, and statistical operations on the manifold of positive definite matrices.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://nicoesve.github.io/riemmtan/}
+  \item Report bugs at \url{https://github.com/nicoesve/riemmtan/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Nicolas Escobar \email{nescoba@iu.edu} (\href{https://orcid.org/0009-0006-0800-5692}{ORCID})
 
